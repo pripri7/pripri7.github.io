@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://mbehhh.github.io/share/DGTVBRO.apk";
+const fileLink = "https://pripri7.github.io/share/DGTVBRO.apk";
 
 const initTimer = () => {
   if (downloadBtn.classList.contains("disable-timer")) {
